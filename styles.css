@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: blue;
+}
+
+
+.main-content {
+    background-color: ghostwhite;
+    padding: 1rem;
+}

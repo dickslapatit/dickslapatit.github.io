@@ -12,3 +12,7 @@ body {
     background-color: ghostwhite;
     padding: 1rem;
 }
+
+.images {
+    max-width: 100%;
+}
